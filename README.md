@@ -1,4 +1,4 @@
-<img width="533" alt="Screenshot 2023-09-17 at 12 40 49 AM" src="https://github.com/ananta1579/wireless-bluetooth-display-with-buzzer/assets/64258573/9b38ebd7-113b-4ed8-aa80-4562b9f58e36"><img width="350" alt="Screenshot 2023-09-17 at 12 40 58 AM" src="https://github.com/ananta1579/wireless-bluetooth-display-with-buzzer/assets/64258573/2fe2679d-d0d3-471a-b90b-711fa75db2b6"># wireless-bluetooth-display-with-buzzer
+# wireless-bluetooth-display-with-buzzer
 The Wireless Message Display System offers a practical solution for wirelessly receiving and displaying messages using an Arduino microcontroller 
 and a wireless module. The system's ability to communicate wirelessly provides flexibility in various applications, such as remote control systems 
 and also value detection systems in a particular Device or Embedded System Device.
